@@ -1,0 +1,588 @@
+[
+  {
+    "id": 1,
+    "question": "vasco da Gama ഇന്ത്യയിൽ ആദ്യമായി എത്തിയ വർഷം ഏത്?",
+    "options": ["1498", "1600", "1526", "1757"],
+    "answer": "1498"
+  },
+  {
+    "id": 2,
+    "question": "1857-ലെ ആദ്യ സ്വാതന്ത്ര്യ സമരത്തിന് നയിച്ച പ്രമുഖനായ സൈനിക നേതാവ് ആര്?",
+    "options": ["ഭഗത് സിംഗ്", "രാണി ലക്ഷ്മിബായി", "മംഗൽ പാണ്ഡേ", "സുബാഷ് ചന്ദ്രബോസ്"],
+    "answer": "മംഗൽ പാണ്ഡേ"
+  },
+  {
+    "id": 3,
+    "question": "കുറിയിലത്ത് ലഹളയുമായി ബന്ധപ്പെട്ട പ്രമുഖ വ്യക്തി?",
+    "options": ["വേലായുധപ്പണിക്കർ", "ആയില്യം തിരുനാൾ", "ചട്ടമ്പിസ്വാമികൾ", "അയ്യങ്കാളി"],
+    "answer": "വേലായുധപ്പണിക്കർ"
+  },
+  {
+    "id": 4,
+    "question": "മഹാത്മാ ഗാന്ധിയുടെ ആദ്യ സത്യാഗ്രഹം നടന്നത് എവിടെ?",
+    "options": ["ചമ്പാരൻ", "ഖേദ", "അഹമ്മദാബാദ്", "ബർദോളി"],
+    "answer": "ചമ്പാരൻ"
+  },
+  {
+    "id": 5,
+    "question": "പ്രാചീന ഇന്ത്യയിലെ പ്രമുഖ നദീഭാഗ്യ സംസ്കാരം ഏത്?",
+    "options": ["ഹരപ്പൻ സംസ്കാരം", "വേദിക സംസ്കാരം", "ഗുപ്ത സംസ്കാരം", "മൗര്യ സംസ്കാരം"],
+    "answer": "ഹരപ്പൻ സംസ്കാരം"
+  },
+  {
+    "id": 6,
+    "question": "ഭാരതീയ ഭരണഘടനയുടെ രചയിതാവ് ആരാണ്?",
+    "options": ["ജവഹർലാൽ നെഹ്രു", "ബി.ആർ. അംബേദ്കർ", "എസ്. രാജഗോപാലാചാരി", "രജേന്ദ്ര പ്രസാദ്"],
+    "answer": "ബി.ആർ. അംബേദ്കർ"
+  },
+  {
+    "id": 7,
+    "question": "ഭരണഘടനയുടെ ഏത് അനുച്ഛേദത്തിലാണ് അടിയന്തരാവസ്ഥയുടെ വ്യവസ്ഥ?",
+    "options": ["അനുച്ഛേദം 352", "അനുച്ഛേദം 370", "അനുച്ഛേദം 124", "അനുച്ഛേദം 21"],
+    "answer": "അനുച്ഛേദം 352"
+  },
+  {
+    "id": 8,
+    "question": "അടിസ്ഥാന അവകാശങ്ങൾ ഭരണഘടനയുടെ ഏത് ഭാഗത്തിലാണ് ഉൾപ്പെടുത്തിയിരിക്കുന്നത്?",
+    "options": ["ഭാഗം IV", "ഭാഗം III", "ഭാഗം VI", "ഭാഗം IX"],
+    "answer": "ഭാഗം III"
+  },
+  {
+    "id": 9,
+    "question": "ഇന്ത്യൻ ഭരണഘടനയുടെ പ്രാരംഭഭാഗം ആരംഭിക്കുന്നത് ഏത് വാക്കുകളാൽ?",
+    "options": ["ഇത് നമ്മുടെ ഭരണഘടനയാണ്", "ഭാരതീയ ജനതയുടെ സംയുക്ത പ്രഖ്യാപനം", "ഞങ്ങൾ ഭാരതീയർ", "ജനതയുടെ ഭരണഘടന"],
+    "answer": "ഞങ്ങൾ ഭാരതീയർ"
+  },
+  {
+    "id": 10,
+    "question": "ഇന്ത്യൻ ഭരണഘടന പ്രകാരം ദേശീയ ഭാഷ എന്താണ്?",
+    "options": ["ഇംഗ്ലീഷ്", "ഹിന്ദി", "സംസ്കൃതം", "വിവരിച്ചിട്ടില്ല"],
+    "answer": "വിവരിച്ചിട്ടില്ല"
+  },
+  {
+    "id": 11,
+    "question": "രാജ്യസഭയുടെ സ്ഥിരം അധ്യക്ഷൻ ആര്?",
+    "options": ["പ്രധാനമന്ത്രി", "രാഷ്ട്രപതി", "ഉപരാഷ്ട്രപതി", "ലോക്‌സഭാ സ്പീക്കർ"],
+    "answer": "ഉപരാഷ്ട്രപതി"
+  },
+  {
+    "id": 12,
+    "question": "ഒരു സംസ്ഥാന ഗവർണ്ണറെ നിയമിക്കുന്നത് ആര്?",
+    "options": ["പ്രധാനമന്ത്രി", "രാജ്യസഭ", "ലോക്‌സഭ", "രാഷ്ട്രപതി"],
+    "answer": "രാഷ്ട്രപതി"
+  },
+  {
+    "id": 13,
+    "question": "ഇന്ത്യയിൽ സംസ്ഥാന നിയമസഭകളിൽ അംഗസംഖ്യ നിശ്ചയിക്കുന്നത് ആരാണ്?",
+    "options": ["അടിസ്ഥാന അവകാശങ്ങൾ", "ഭരണഘടന", "റിസർവ് ബാങ്ക്", "തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ"],
+    "answer": "ഭരണഘടന"
+  },
+  {
+    "id": 14,
+    "question": "പഞ്ചായത്ത് രാജ് സമ്പ്രദായം ഇന്ത്യൻ ഭരണഘടനയിൽ ഏത് ഭേദഗതിയിലൂടെ കൊണ്ടുവന്നതാണ്?",
+    "options": ["42-ാം ഭേദഗതി", "73-ാം ഭേദഗതി", "44-ാം ഭേദഗതി", "93-ാം ഭേദഗതി"],
+    "answer": "73-ാം ഭേദഗതി"
+  },
+  {
+    "id": 15,
+    "question": "ഇന്ത്യൻ പാർലമെന്റിന്റെ ചുവടു വീടാണോ?",
+    "options": ["ലോക്‌സഭ", "രാജ്യസഭ", "അയ്യോ", "ഇരുവരും"],
+    "answer": "ലോക്‌സഭ"
+  },
+  {
+    "id": 16,
+    "question": "ഇന്ത്യയിലെ ആദ്യത്തെ 5 വർഷ പദ്ധതി ആരംഭിച്ച വർഷം?",
+    "options": ["1950", "1951", "1947", "1965"],
+    "answer": "1951"
+  },
+  {
+    "id": 17,
+    "question": "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ സ്ഥാപിതമായ വർഷം?",
+    "options": ["1935", "1947", "1950", "1920"],
+    "answer": "1935"
+  },
+  {
+    "id": 18,
+    "question": "ഇന്ത്യൻ രൂപയുടെ മൂല്യം നിശ്ചയിക്കുന്നത് ആരാണ്?",
+    "options": ["സെൻട്രൽ ബാങ്ക്", "രാജ്യസഭ", "ഭാരതീയ റിസർവ് ബാങ്ക്", "ലോക ബാങ്ക്"],
+    "answer": "ഭാരതീയ റിസർവ് ബാങ്ക്"
+  },
+  {
+    "id": 19,
+    "question": "ജിഎസ്ടി ഏത് വർഷമാണ് ഇന്ത്യയിൽ പ്രാബല്യത്തിൽ വന്നത്?",
+    "options": ["2015", "2017", "2019", "2020"],
+    "answer": "2017"
+  },
+  {
+    "id": 20,
+    "question": "സാമ്പത്തിക വളർച്ച അളക്കുന്നതിനുള്ള പ്രധാന സൂചിക?",
+    "options": ["ഇൻഫ്ലേഷൻ", "ജനസംഖ്യ വളർച്ച", "ജിഡിപി", "വിദേശനാണ്യ ശേഖരം"],
+    "answer": "ജിഡിപി"
+  },
+  {
+    "id": 21,
+    "question": "കേരളത്തിൽ ചലച്ചിത്ര അക്കാദമി സ്ഥിതി ചെയ്യുന്നത് എവിടെ?",
+    "options": ["തിരുവനന്തപുരം", "കോഴിക്കോട്", "എറണാകുളം", "തൃശ്ശൂർ"],
+    "answer": "തിരുവനന്തപുരം"
+  },
+  {
+    "id": 22,
+    "question": "കഥകളിയുടെ ജന്മസ്ഥാനം ഏത് സംസ്ഥാനം?",
+    "options": ["തമിഴ്നാട്", "കേരളം", "കർണാടക", "ആന്ധ്രപ്രദേശ്"],
+    "answer": "കേരളം"
+  },
+  {
+    "id": 23,
+    "question": "കേരളത്തിന്റെ നാടൻ കലാരൂപം ഏതാണ്?",
+    "options": ["കുച്ചുപ്പുടി", "കഥകളി", "മോഹിനിയാട്ടം", "ഭരതനാട്യം"],
+    "answer": "കഥകളി"
+  },
+  {
+    "id": 24,
+    "question": "കേരള സംഗീത നാടക അക്കാദമി സ്ഥിതിചെയ്യുന്നത് എവിടെ?",
+    "options": ["കൊച്ചി", "കൊല്ലം", "കണ്ണൂർ", "തൃശ്ശൂർ"],
+    "answer": "തൃശ്ശൂർ"
+  },
+  {
+    "id": 25,
+    "question": "വീണയുമായി ബന്ധപ്പെട്ട പ്രശസ്തനായ സംഗീതജ്ഞൻ ആര്?",
+    "options": ["ഉസ്താദ് ബിസ്മില്ലാഖാൻ", "രവിശങ്കർ", "ഡി.കെ. പട്ടമ്മാൾ", "ബാലമുരളികൃഷ്ണ"],
+    "answer": "ബാലമുരളികൃഷ്ണ"
+  },
+  {
+    "id": 26,
+    "question": "ക്രിക്കറ്റ് ലോകകപ്പ് ഏറ്റവും കൂടുതൽ തവണ നേടിയ രാജ്യം?",
+    "options": ["ഇന്ത്യ", "ഓസ്ട്രേലിയ", "വെസ്റ്റിൻഡീസ്", "ഇംഗ്ലണ്ട്"],
+    "answer": "ഓസ്ട്രേലിയ"
+  },
+  {
+    "id": 27,
+    "question": "ഒളിംപിക്‌സ് പതാകയിൽ എത്ര വൃത്തങ്ങളുണ്ട്?",
+    "options": ["5", "6", "7", "4"],
+    "answer": "5"
+  },
+  {
+    "id": 28,
+    "question": "സച്ചിൻ തെണ്ടുൽക്കർ തന്റെ അവസാന ടെസ്റ്റ് മാച്ച് കളിച്ചത് ഏത് രാജ്യത്തിനെതിരെ?",
+    "options": ["ഓസ്ട്രേലിയ", "ദക്ഷിണാഫ്രിക്ക", "വെസ്റ്റിൻഡീസ്", "ഇംഗ്ലണ്ട്"],
+    "answer": "വെസ്റ്റിൻഡീസ്"
+  },
+  {
+    "id": 29,
+    "question": "കേരള ബ്ലാസ്റ്റേഴ്‌സ് ഏത് ലീഗിലാണ് മത്സരിക്കുന്നത്?",
+    "options": ["ഐലീഗ്", "ഐ.എസ്.എൽ", "സന്തോഷ് ട്രോഫി", "ഫിഫ ലോകകപ്പ്"],
+    "answer": "ഐ.എസ്.എൽ"
+  },
+  {
+    "id": 30,
+    "question": "കേരളത്തിന്റെ സംസ്ഥാന കായികം ഏത്?",
+    "options": ["വള്ളംകളി", "ചെസ്സ്", "വോളിബോൾ", "ഫുട്ബോൾ"],
+    "answer": "വോളിബോൾ"
+  },
+  {
+    "id": 31,
+    "question": "കുടിയേറിപ്പോന്ന മലയാളി എഴുത്തുകാരൻ ആരാണ്?",
+    "options": ["കഴാക്കോട്ട് നാരായണൻ", "ചെറുകാട്", "കുഞ്ഞുണ്ണി മാസ്റ്റർ", "വൈക്കം മുഹമ്മദ് ബഷീർ"],
+    "answer": "വൈക്കം മുഹമ്മദ് ബഷീർ"
+  },
+  {
+    "id": 32,
+    "question": "രണ്ടാമൂഴം രചന ആരുടെ?",
+    "options": ["മൂത്തത്തുപാടം", "തകഴി", "എം.ടി. വാസുദേവൻ നായർ", "കെ.ബി. ശിവൻ"],
+    "answer": "എം.ടി. വാസുദേവൻ നായർ"
+  },
+  {
+    "id": 33,
+    "question": "ആടുജീവിതം എന്ന നോവലിന്റെ രചയിതാവ്?",
+    "options": ["ബെന്നി ഡാനിയേൽ", "ബെന്നി പുന്നത്തറ", "ബെന്നി ജോസഫ്", "ബെന്നി പാടത്തിപറമ്പിൽ"],
+    "answer": "ബെന്നി പുന്നത്തറ"
+  },
+  {
+    "id": 34,
+    "question": "ആദ്യത്തെ ജ്ഞാനപീഠ പുരസ്കാര വിജയിയായ മലയാളി?",
+    "options": ["പി.കുമാരനാശാൻ", "ജി.ശങ്കരക്കുറുപ്പ്", "കേശവദേവ്", "ഒ.വി.വിജയൻ"],
+    "answer": "ജി.ശങ്കരക്കുറുപ്പ്"
+  },
+  {
+    "id": 35,
+    "question": "ചെമ്മീൻ നോവലിന്റെ രചയിതാവ്?",
+    "options": ["എം.ടി. വാസുദേവൻ നായർ", "തകഴി ശിവശങ്കരപിള്ള", "ബഷീർ", "എ. പി. ജോസഫ്"],
+    "answer": "തകഴി ശിവശങ്കരപിള്ള"
+  },
+  {
+    "id": 36,
+    "question": "കേരളത്തിന്റെ ദേശീയ ഉത്സവം ഏത്?",
+    "options": ["ഓണം", "വിഷു", "ഈദ്", "ക്രിസ്തുമസ്"],
+    "answer": "ഓണം"
+  },
+  {
+    "id": 37,
+    "question": "കുംഭമേളയുടെ പ്രധാന കേന്ദ്രം ഏത്?",
+    "options": ["ഹരിദ്വാർ", "ഉജ്ജയിനി", "പ്രയാഗ്", "അയോദ്ധ്യ"],
+    "answer": "പ്രയാഗ്"
+  },
+  {
+    "id": 38,
+    "question": "കാന്താര എന്ന സിനിമ ഏത് ഭാഷയിലാണുള്ളത്?",
+    "options": ["മലയാളം", "തമിഴ്", "കന്നഡ", "തെലുങ്ക്"],
+    "answer": "കന്നഡ"
+  },
+  {
+    "id": 39,
+    "question": "തിരുവാതിര എന്നത് എന്തിന്റെ പേരാണ്?",
+    "options": ["കഥകളി", "മോഹിനിയാട്ടം", "നൃത്തം", "നാടൻ കളി"],
+    "answer": "നൃത്തം"
+  },
+  {
+    "id": 40,
+    "question": "കുഞ്ഞാലിമരയ്ക്കാർ എന്ന പദവി ഏത് സാമുദായിക വിഭാഗവുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു?",
+    "options": ["ഹിന്ദു", "മുസ്ലിം", "ക്രിസ്ത്യൻ", "ബുദ്ധ"],
+    "answer": "മുസ്ലിം"
+  },
+  {
+    "id": 41,
+    "question": "CPUയുടെ പൂര്‍ണരൂപം?",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Control Processing Unit", "Central Program Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 42,
+    "question": "RAM എന്നത് എന്തിന്റെ ചുരുക്കപേരാണ്?",
+    "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Remote Access Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "id": 43,
+    "question": "കമ്പ്യൂട്ടറിലെ ഹാർഡ് ഡിസ്‌ക് എന്തിനാണ് ഉപയോഗിക്കുന്നത്?",
+    "options": ["പ്രോസസ്സിംഗ്", "ശേഖരണം", "ഡാറ്റാ ഇൻപുട്ട്", "ഔട്ട്പുട്ട്"],
+    "answer": "ശേഖരണം"
+  },
+  {
+    "id": 44,
+    "question": "ഇൻപുട്ട് ഉപകരണങ്ങൾക്കു ഉദാഹരണം?",
+    "options": ["കീബോർഡ്", "മോണിറ്റർ", "പ്രിന്റർ", "സ്പീക്കർ"],
+    "answer": "കീബോർഡ്"
+  },
+  {
+    "id": 45,
+    "question": "സോഫ്റ്റ്‌വെയറിന്റെ പ്രധാന രണ്ടു വിഭാഗങ്ങൾ?",
+    "options": ["ആപ്പ്ലിക്കേഷൻ & സിസ്റ്റം", "ഹാർഡ് & സോഫ്", "പ്രോഗ്രാം & ഡാറ്റാ", "ഇവയൊന്നുമല്ല"],
+    "answer": "ആപ്പ്ലിക്കേഷൻ & സിസ്റ്റം"
+  },
+  {
+    "id": 46,
+    "question": "പ്രധാന ഓപ്പറേറ്റിങ് സിസ്റ്റങ്ങളിൽ ഒന്നല്ലാത്തത് ഏതാണ്?",
+    "options": ["Windows", "Linux", "MacOS", "Google Chrome"],
+    "answer": "Google Chrome"
+  },
+  {
+    "id": 47,
+    "question": "ഇന്റർനെറ്റിന്റെ പിതാവ് ആരാണ്?",
+    "options": ["ബിൽ ഗേറ്റ്സ്", "ടിം ബേർണേഴ്സ്-ലി", "ചാൾസ് ബാബേജ്", "വിന്റ് സെർഫ്"],
+    "answer": "വിന്റ് സെർഫ്"
+  },
+  {
+    "id": 48,
+    "question": "ഒരു പ്രത്യാകൃത ചതുരസ്രത്തിന്റെ ഒരേൊരു വശത്തിന്റെ നീളം 6 മീറ്റർ ആണെങ്കിൽ അതിന്റെ വിസ്തീർണ്ണം?",
+    "options": ["36 ചതുരശ്ര മീറ്റർ", "12 ചതുരശ്ര മീറ്റർ", "18 ചതുരശ്ര മീറ്റർ", "24 ചതുരശ്ര മീറ്റർ"],
+    "answer": "36 ചതുരശ്ര മീറ്റർ"
+  },
+  {
+    "id": 49,
+    "question": "ഒരു കൂട്ടിയ വസ്ത്രത്തിന്റെയും വില 200 രൂപയും 10% ഡിസ്‌ക്കൗണ്ടും ആണെങ്കിൽ, ഉപഭോക്താവിന് നൽകേണ്ട വില?",
+    "options": ["180", "190", "200", "175"],
+    "answer": "180"
+  },
+  {
+    "id": 50,
+    "question": "125-ൽ 25% എത്ര?",
+    "options": ["30", "31.25", "32.5", "25"],
+    "answer": "31.25"
+  },
+  {
+    "id": 51,
+    "question": "4, 9, 16, 25, __?",
+    "options": ["35", "36", "40", "49"],
+    "answer": "36"
+  },
+  {
+    "id": 52,
+    "question": "ഒരു ട്രെയിനിന്റെ ദൈർഘ്യം 200 മീറ്ററാണെങ്കിൽ, ഇത് 40 മീ/സെ വേഗതയിൽ സഞ്ചരിക്കുമ്പോൾ ഒരു പാലം കടക്കാൻ എത്ര സെക്കൻഡ് വേണ്ടി വരും?",
+    "options": ["5 സെക്കൻഡ്", "6 സെക്കൻഡ്", "7 സെക്കൻഡ്", "8 സെക്കൻഡ്"],
+    "answer": "5 സെക്കൻഡ്"
+  },
+  {
+    "id": 53,
+    "question": "ഒരു ചെറിയ ആന ഒരു വലിയ ആനയേക്കാൾ 2 മടങ്ങ് വേഗത്തിൽ ഓടുന്നു. ചെറിയ ആന 100 മീറ്റർ പിന്നിടുമ്പോൾ വലിയ ആന എത്ര മീറ്റർ പിന്നിടും?",
+    "options": ["50", "100", "150", "200"],
+    "answer": "50"
+  },
+  {
+    "id": 54,
+    "question": "അല്ലുവിന് ഇന്ന് 10 വയസ്സാണ്. 5 വർഷത്തിനു ശേഷം അവൻ്റെ പ്രായം എത്രായിരിക്കും?",
+    "options": ["10", "12", "15", "16"],
+    "answer": "15"
+  },
+  {
+    "id": 55,
+    "question": "ഒരു അമ്മയുടെ പ്രായം 36 ആണ്. അവളുടെ മകന്റെ പ്രായം അമ്മയുടെ പ്രായത്തിന്റെ 1/3 ആണ്. എത്ര വയസ്സുള്ളവനാണ് മകൻ?",
+    "options": ["9", "10", "12", "11"],
+    "answer": "12"
+  },
+  {
+    "id": 56,
+    "question": "അന്ന് ഞായറാഴ്ച ആയിരുന്നു, രണ്ട് ദിവസത്തിന് ശേഷം ഏത് ദിവസം?",
+    "options": ["ചൊവ്വ", "ബുധൻ", "വ്യാഴം", "വെള്ളി"],
+    "answer": "ചൊവ്വ"
+  },
+  {
+    "id": 57,
+    "question": "ഒരു വ്യക്തി കിഴക്ക് നോക്കി നിന്ന് 90° വലത്തോട്ട് തിരിയുന്നു. പിന്നീട് 180° തിരിഞ്ഞ് വീണ്ടും 90° വലത്തോട്ട് തിരിയുന്നു. ഇപ്പോൾ അവൻ ഏത് ദിശയിലേക്കാണ് നോക്കുന്നത്?",
+    "options": ["കിഴക്ക്", "പടിഞ്ഞാറ്", "വടക്ക്", "തെക്ക്"],
+    "answer": "കിഴക്ക്"
+  },
+  {
+    "id": 58,
+    "question": "If 2 + 3 = 10, 3 + 7 = 27, 4 + 5 = 32, then 6 + 7 = ?",
+    "options": ["40", "42", "50", "72"],
+    "answer": "72"
+  },
+  {
+    "id": 59,
+    "question": "Find the missing number: 3, 6, 11, 18, __, 38",
+    "options": ["26", "28", "29", "30"],
+    "answer": "29"
+  },
+  {
+    "id": 60,
+    "question": "A is the father of B, but B is not the son of A. What is B to A?",
+    "options": ["Daughter", "Cousin", "Nephew", "Son"],
+    "answer": "Daughter"
+  },
+  {
+    "id": 61,
+    "question": "If 1st January 2023 is a Sunday, what day will it be on 1st January 2024?",
+    "options": ["Sunday", "Monday", "Tuesday", "Saturday"],
+    "answer": "Monday"
+  },
+  {
+    "id": 62,
+    "question": "Rearrange the letters in 'NATURAL' to form a meaningful word related to time.",
+    "options": ["LUNAR", "TUNAR", "ARULAN", "NURALA"],
+    "answer": "LUNAR"
+  },
+  {
+    "id": 63,
+    "question": "A train is 400m long and moving at a speed of 60 km/h. How long will it take to cross a 200m long bridge?",
+    "options": ["30 sec", "36 sec", "40 sec", "45 sec"],
+    "answer": "36 sec"
+  },
+  {
+    "id": 64,
+    "question": "If TABLE is coded as GZOVI, then CHAIR is coded as?",
+    "options": ["XSZRI", "XZSRH", "XZVRI", "XZSRI"],
+    "answer": "XZVRI"
+  },
+  {
+    "id": 65,
+    "question": "If you are facing North and turn 270° clockwise, which direction will you be facing?",
+    "options": ["South", "East", "West", "North"],
+    "answer": "West"
+  },
+  {
+    "id": 66,
+    "question": "A shopkeeper sells an item at 20% profit. If the cost price is $100, what is the selling price?",
+    "options": ["$120", "$110", "$130", "$140"],
+    "answer": "$120"
+  },
+  {
+    "id": 67,
+    "question": "A clock shows 10:30 AM. What is the angle between the hour and minute hands?",
+    "options": ["90°", "105°", "120°", "150°"],
+    "answer": "105°"
+  },
+  {
+    "id": 68,
+    "question": "What is the value of 25 × 4 + 12 ÷ 3?",
+    "options": ["100", "108", "88", "92"],
+    "answer": "108"
+  },
+  {
+    "id": 69,
+    "question": "A shopkeeper gives a 10% discount on a product priced at $250. What is the final price?",
+    "options": ["$225", "$230", "$240", "$245"],
+    "answer": "$225"
+  },
+  {
+    "id": 70,
+    "question": "If a train travels at 80 km/h, how far will it travel in 2 hours 30 minutes?",
+    "options": ["180 km", "160 km", "200 km", "150 km"],
+    "answer": "200 km"
+  },
+  {
+    "id": 71,
+    "question": "A rectangular garden is 20m long and 15m wide. What is its area?",
+    "options": ["300 sq. m", "350 sq. m", "250 sq. m", "400 sq. m"],
+    "answer": "300 sq. m"
+  },
+  {
+    "id": 72,
+    "question": "What is 15% of 240?",
+    "options": ["30", "32", "34", "36"],
+    "answer": "36"
+  },
+  {
+    "id": 73,
+    "question": "If the cost price of an item is $500 and the profit is 25%, what is the selling price?",
+    "options": ["$600", "$625", "$550", "$575"],
+    "answer": "$625"
+  },
+  {
+    "id": 74,
+    "question": "A man buys 5 apples for $20. What is the cost of 8 apples?",
+    "options": ["$30", "$32", "$35", "$40"],
+    "answer": "$32"
+  },
+  {
+    "id": 75,
+    "question": "If a sum of money doubles in 5 years at simple interest, what is the rate of interest per annum?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "answer": "20%"
+  },
+  {
+    "id": 76,
+    "question": "A man can complete a work in 10 days. Another man can complete the same work in 15 days. If both work together, how many days will it take to complete the work?",
+    "options": ["6 days", "7 days", "8 days", "9 days"],
+    "answer": "6 days"
+  },
+  {
+    "id": 77,
+    "question": "If 5 workers can build a wall in 12 days, how many days will it take for 10 workers to build the same wall?",
+    "options": ["6 days", "8 days", "10 days", "12 days"],
+    "answer": "6 days"
+  },
+  {
+    "id": 78,
+    "question": "If 5 cats catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?",
+    "options": ["5", "10", "20", "25"],
+    "answer": "5"
+  },
+  {
+    "id": 79,
+    "question": "Find the missing number: 2, 6, 12, 20, __, 42",
+    "options": ["28", "30", "32", "36"],
+    "answer": "30"
+  },
+  {
+    "id": 80,
+    "question": "A is older than B. B is older than C. C is older than D. Who is the youngest?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "D"
+  },
+  {
+    "id": 81,
+    "question": "If TODAY is coded as WRGDCA, then NIGHT is coded as?",
+    "options": ["PLKJK", "QJHGV", "OMJKL", "QJKUV"],
+    "answer": "QJHGV"
+  },
+  {
+    "id": 82,
+    "question": "Find the odd one out: 9, 16, 25, 36, 50, 49",
+    "options": ["9", "25", "50", "49"],
+    "answer": "50"
+  },
+  {
+    "id": 83,
+    "question": "If 3 pencils cost $5, how much will 12 pencils cost?",
+    "options": ["$15", "$20", "$25", "$30"],
+    "answer": "$20"
+  },
+  {
+    "id": 84,
+    "question": "If all BLOOMS are FLOWERS and some FLOWERS are FRUITS, then all BLOOMS are?",
+    "options": ["Fruits", "Trees", "Flowers", "None of the above"],
+    "answer": "Flowers"
+  },
+  {
+    "id": 85,
+    "question": "A train running at 72 km/h takes 25 seconds to cross a platform. If the train is 150 meters long, what is the length of the platform?",
+    "options": ["250 meters", "200 meters", "300 meters", "350 meters"],
+    "answer": "250 meters"
+  },
+  {
+    "id": 86,
+    "question": "A clock shows 2:45. What is the angle between the hour and minute hands?",
+    "options": ["97.5°", "112.5°", "120°", "135°"],
+    "answer": "112.5°"
+  },
+  {
+    "id": 87,
+    "question": "If 6 people can complete a task in 12 days, how many days will it take for 4 people to complete the same task?",
+    "options": ["16", "18", "20", "22"],
+    "answer": "18"
+  },
+  {
+    "id": 88,
+    "question": "In a certain code, 'TABLE' is written as 'GZOVI'. How is 'CHAIR' written?",
+    "options": ["XZSRI", "XZVRI", "XZTRI", "XZURI"],
+    "answer": "XZVRI"
+  },
+  {
+    "id": 89,
+    "question": "Pointing to a person, Ravi said, 'He is the son of my grandfather's only son.' What is the person’s relation to Ravi?",
+    "options": ["Brother", "Uncle", "Cousin", "Father"],
+    "answer": "Brother"
+  },
+  {
+    "id": 90,
+    "question": "If SOUTH is written as HTUOS, how is NORTH written?",
+    "options": ["HTORN", "HTRON", "HNTOR", "HNTRO"],
+    "answer": "HTRON"
+  },
+  {
+    "id": 91,
+    "question": "Rearrange the letters in 'SPINE' to form a word related to water.",
+    "options": ["PINES", "SNIP", "SIP", "PINESI"],
+    "answer": "SIP"
+  },
+  {
+    "id": 92,
+    "question": "If 3 books cost $9, how many books can be bought for $27?",
+    "options": ["6", "8", "9", "10"],
+    "answer": "9"
+  },
+  {
+    "id": 93,
+    "question": "A clock shows 3:30. What is the angle between the hour and minute hands?",
+    "options": ["75°", "90°", "105°", "120°"],
+    "answer": "105°"
+  },
+  {
+    "id": 94,
+    "question": "A man walks 5 km east, then 3 km north, then 5 km west, and finally 3 km south. How far is he from the starting point?",
+    "options": ["0 km", "2 km", "3 km", "5 km"],
+    "answer": "0 km"
+  },
+  {
+    "id": 95,
+    "question": "If APPLE is coded as 52163 and MANGO is coded as 31754, then how is PEAR coded?",
+    "options": ["5621", "5617", "5723", "5416"],
+    "answer": "5617"
+  },
+  {
+    "id": 96,
+    "question": "A train 400m long is moving at a speed of 90 km/h. How long will it take to cross a tunnel 200m long?",
+    "options": ["20 sec", "24 sec", "30 sec", "32 sec"],
+    "answer": "24 sec"
+  },
+  {
+    "id": 97,
+    "question": "A cube has how many faces?",
+    "options": ["4", "5", "6", "8"],
+    "answer": "6"
+  }
+  
+
+  
+  ]
+  
