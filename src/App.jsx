@@ -11,6 +11,7 @@ import { useEffect } from "react";
 import { requestNotificationPermission } from "./hooks/useNotification";
 import { scheduleRandomQuestionNotification } from "./utils/notificationScheduler";
 import questionsData from "../public/data/questions.json";
+import Notes from "./pages/Notes";
 
 function App() {
 
@@ -29,12 +30,13 @@ function App() {
 
 
   return (
-    <div className="flex flex-col min-h-screen ">
+    <div className="flex flex-col min-h-screen bg-gradient-to-r from-slate-900 to-slate-700 ">
       <Header />
       <main className="flex-grow container mx-auto p-4">
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/questions" element={<QuestionBank />} />
+      <Route path="/notes" element={<Notes />} />
       <Route path="/bookmarks" element={<Bookmarks />} />
       <Route path="/mock-exam" element={<MockExam />} />
       <Route path="/dashboard" element={<Dashboard />} />

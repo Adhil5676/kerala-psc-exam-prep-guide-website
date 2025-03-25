@@ -44,7 +44,7 @@ export default function TodoList() {
   }, []);
 
   return (
-    <div className="p-4 bg-white shadow-md rounded-lg">
+    <div className="p-4 bg-gray-300 shadow-md rounded-lg">
       <h2 className="text-xl font-bold mb-3">📅 Daily To-Do List</h2>
       <ul>
         {tasks.map((task) => (

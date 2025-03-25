@@ -20,8 +20,8 @@ export default function QuestionBank() {
 
   return (
     <div className="p-4">
-      <h1 className="text-2xl font-bold mb-4">Question Bank</h1>
-      <p className="text-gray-600 mb-2">
+      <h1 className="text-2xl font-bold mb-4 text-blue-500 ">Question Bank</h1>
+      <p className="text-gray-400 mb-2">
         NB-All Questions are converted into malayalam as well as converted into
         .json file using chatgpt SO if you come across any error please let me
         know through links below{" "}
@@ -34,7 +34,7 @@ export default function QuestionBank() {
       <input
         type="text"
         placeholder="Search questions..."
-        className="w-full p-2 border rounded mb-4"
+        className="w-full p-2 bg-slate-300 border rounded mb-4"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
       />
@@ -42,7 +42,7 @@ export default function QuestionBank() {
         {filteredQuestions.map((q) => {
           const isBookmarked = bookmarkedQuestions.some((bq) => bq.id === q.id);
           return (
-            <div key={q.id} className="p-4 border rounded bg-white shadow">
+            <div key={q.id} className="p-4 border rounded bg-slate-200 shadow">
               <p className="font-medium">{q.question}</p>
               <ul className="mt-2">
                 {q.options.map((option, index) => (

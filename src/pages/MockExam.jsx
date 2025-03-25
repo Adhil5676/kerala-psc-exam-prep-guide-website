@@ -47,11 +47,11 @@ export default function MockExam() {
   };
   return (
     <div className="p-4">
-      <h1 className="text-2xl font-bold mb-4">Mock Exam</h1>
+      <h1 className="text-2xl font-bold text-blue-600 mb-4">Mock Exam</h1>
 
       {!examStarted ? (
         <div className="text-center">
-          <p className="text-lg text-gray-700">
+          <p className="text-lg text-white">
             Test your knowledge with a timed mock exam!
           </p>
           <button
@@ -68,7 +68,7 @@ export default function MockExam() {
               {examQuestions.map((q, index) => (
                 <div
                   key={q.id}
-                  className="p-4 border rounded bg-white shadow mb-4"
+                  className="p-4 border rounded bg-gray-300 shadow mb-4"
                 >
                   <p className="font-medium">
                     {index + 1}. {q.question}

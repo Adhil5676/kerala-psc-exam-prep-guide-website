@@ -6,9 +6,9 @@ export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="bg-blue-600 text-white p-4 shadow-md ">
+    <header className="bg-blue-600 text-white p-4 shadow-md bg-transparent ">
       <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-2xl font-bold font-full">SHILPAM PSC</h1>
+        <h1 className="text-2xl font-bold font-full text-blue-600">SHILPAM PSC</h1>
 
         {/* Mobile Menu Button */}
         <button
@@ -38,9 +38,10 @@ export default function Header() {
                 to="/questions"
                 className="block py-2 font-full px-4 hover:underline hover:text-yellow-300 duration-500"
               >
-                Questions
+                Questions Bank
               </Link>
             </li>
+            <li><Link to="/notes" className="block py-2 font-full px-4 hover:underline hover:text-yellow-300 duration-500">PSC Notes</Link></li>
             <li>
               <Link
                 to="/mock-exam"

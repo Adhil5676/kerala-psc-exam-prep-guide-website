@@ -1,0 +1,63 @@
+{
+    "notes": [
+      {
+        "id": 1,
+        "title": "5000-GK-QUESTIONS",
+        "file": "/pdfs/notes/5000-GK-QUESTIONS.pdf"
+      },
+      {
+        "id": 2,
+        "title": "CURRENT AFFAIRS DEC 2024",
+        "file": "/pdfs/notes/current-affairs-dec- 2024.pdf"
+      },
+      {
+        "id": 3,
+        "title": "Introduction To BNS",
+        "file":"/pdfs/notes/Introduction-BNS.pdf"
+      },
+      {
+        "id": 4,
+        "title": "BNS-PART-2",
+        "file":"/pdfs/notes/BNS-Part 2.pdf"
+
+      },
+      {
+        "id": 5,
+        "title": "BNS-PART-3",
+        "file":"/pdfs/notes/BNS-Part 3.pdf"
+      },
+      {
+        "id":6,
+        "title":"BNS-PART-4",
+        "file":"/pdfs/notes/BNS-Part-4.pdf"
+      },
+      {
+        "id":7,
+        "title":"BNS-PART-5.1",
+        "file":"/pdfs/notes/BNS-part-5.1.pdf"
+      },
+      {
+        "id":8,
+        "title":"BNS-PART-5.2",
+        "file":"/pdfs/notes/BNS-part-5.2.pdf"
+      },
+      {
+        "id":9,
+        "title":"BNS-PART-5.3",
+        "file":"/pdfs/notes/BNS-part-5.3.pdf"
+      }
+    ],
+    "questionPapers": [
+      {
+        "id": 1,
+        "title": "Women constable 2016",
+        "file": "/pdfs/question-papers/constable-2016.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Women SI 2016",
+        "file": "/pdfs/question-papers/women-si-2016.pdf"
+      }
+    ]
+  }
+  

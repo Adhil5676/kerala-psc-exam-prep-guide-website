@@ -2,15 +2,15 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div className="flex flex-col rounded-2xl items-center justify-center min-h-screen bg-gray-100 text-white p-6">
+    <div className="flex flex-col rounded-2xl items-center justify-center min-h-screen bg-gray-300 text-white p-6">
       {/* Title with Logo */}
       <div className="flex items-center space-x-4">
         <img
           src="../public/images/logo01.png"
           alt="Logo"
-          className="w-16 h-16 rounded-full shadow-lg object-cover border-2 border-blue-500"
+          className="w-16 h-16 rounded-full shadow-lg object-cover border-2 border-blue-600"
         />
-        <h1 className="text-5xl font-bold text-blue-500 font-mallu">ശിൽപ്പം</h1>
+        <h1 className="text-5xl font-bold text-blue-600 font-mallu">ശിൽപ്പം</h1>
       </div>
 
       <p className="mt-2 text-lg text-gray-600">നിങ്ങളുടെ PSC സഹായി</p>
@@ -25,7 +25,7 @@ const Home = () => {
       </div>
 
       {/* Subtitle & Description */}
-      <h1 className="text-3xl font-bold text-blue-500 mt-6 sm:text-2xl">
+      <h1 className="text-3xl font-bold text-blue-600 mt-6 sm:text-2xl">
         Your Kerala PSC Exam Prep Guide
       </h1>
       <p className="mt-2 text-lg text-gray-600">
