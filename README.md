@@ -1,12 +1,25 @@
-# React + Vite
+# 📘 Kerala PSC Exam Prep - React Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React.js** application designed to help candidates prepare for **Kerala PSC exams** with **mock tests, digital notes, notifications, and performance tracking**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 📚 **Question Bank** - Kerala PSC questions categorized by topic.
+- 📝 **Mock Exams** - Take practice tests with auto-scoring.
+- 📢 **Random Question Notifications** - Get random quiz questions at intervals.
+- 🔖 **Bookmark Questions** - Save important questions for later review.
+- ❌ **Review Incorrect Answers** - Learn from mistakes.
+- 📊 **Performance Tracking** - Track exam scores & statistics.
+- 📑 **PSC Notes Section** - Download topic-wise PDFs.
+- ✅ **Daily To-Do List** - Helps organize study plans.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React.js (Vite), Tailwind CSS, React Router.
+- **Storage:** LocalStorage (No backend required) comming in future with login.
+- **Notifications:** Browser Notifications API & Service Workers.
+- **Deployment:** Vercel / Netlify.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Installation & Running Locally
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Adhil5676/kerala-psc-exam-prep-guide-website.git
+   cd kerala-psc-exam-prep-guide-website.git
